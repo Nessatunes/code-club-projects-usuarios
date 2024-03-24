@@ -12,6 +12,6 @@ Ao abrir o site, o usuário deve inserir seus dados, ao clicar em <i>Cadastrar</
 
 Este projeto foi desenvolvido com Node.js e React.js, utilizando Styled Components para estilização.
 
-![Texto alternativo](URL_da_imagem)
+![Texto alternativo](https://github.com/Nessatunes/code-club-projects-usuarios/blob/main/first-project-react/src/assets/foto.png)
 
 
